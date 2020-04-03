@@ -1,3 +1,6 @@
+# Q: Consider the terms in the Fibonacci sequence whose values < four million,
+#    find the sum of the even-valued terms.
+
 # a little easy to understand
 
 # a, b, c, total = 1, 1, 0, 0
